@@ -1,3 +1,5 @@
+//this is first and basic program for starting with our code with dsa
+
 #include<iostream>
 using namespace std;
 int main()
