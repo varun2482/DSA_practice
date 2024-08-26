@@ -24,3 +24,8 @@ int main(){
   int size5=sizeof(bl);
   cout<<"the size of boolean is "<<size5<<endl;
 }
+
+
+
+//here we have only considering basic dataTypes
+//going on next we will walkthrough multiple different datatypes
