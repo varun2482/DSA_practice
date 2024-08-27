@@ -2,10 +2,12 @@
 using namespace std;
 int main() {
   int a=5,b=7;
-  //add  explanation about relational operator.
-  bool first=(a==b);
+  //adding  explanation about relational operator.
+  bool first=(a==b);    //here == operator is used to where right hand is equal to left hand or not
   cout<<first<<endl;
-  bool second=(a!=b);
+  //here we can check if our above relation is true(1) or false(0)
+  
+  bool second=(a!=b);   //here != operator will return 1 as outut when a is not equal to b.
   cout<<second<<endl;
   bool third=(a>=b);
   cout<<third<<endl;
