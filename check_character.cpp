@@ -1,3 +1,5 @@
+//this is condition loop program,  here we are using if else ladder loop for checking the enter character category
+
 #include<iostream>
 using namespace std;
 int main() {
