@@ -1,7 +1,11 @@
+//Here we are taking many more pattern examples for more clear understanding
+
+
+
+
 // #include<iostream>
 // using namespace std;
 // int main() {
-
 // int n, row=1;
 // cout << "Enter the number of elements: ";
 // cin >> n;
@@ -14,7 +18,6 @@
 //   cout << endl;
 //   col++;
 // }
-
 // }
 
 
