@@ -1,3 +1,5 @@
+//easy while loop conditions will be taken here
+
 //  printing numbers sequentially upto n 
 
 //  #include<iostream>
