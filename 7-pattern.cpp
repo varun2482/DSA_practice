@@ -1,5 +1,5 @@
 //Here we are taking many more pattern examples for more clear understanding
-//here main three pattern you need to keep in mind are 1st,
+//here main three pattern you need to keep in mind are 1st, 5th, 9th
 
 
 //      1st
@@ -162,7 +162,7 @@
 
 
 
-
+//        8th
 // #include<iostream>
 // using namespace std;
 // int main() {
@@ -184,7 +184,7 @@
 
 
 
-
+//        9th
 #include<iostream>
 using namespace std;
 int main() {
