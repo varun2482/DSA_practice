@@ -28,7 +28,7 @@
 
 
 
-
+//      2nd
 // #include<iostream>
 // using namespace std;
 // int main() {
@@ -48,7 +48,7 @@
 
 
 
-
+//        3rd
 // #include <iostream>
 // using namespace std;
 
@@ -71,7 +71,7 @@
 
 
 
-
+//        4th
 // #include<iostream>
 // using namespace std;
 // int main() {
@@ -95,7 +95,7 @@
 
 
 
-
+//            5th
 //here we are taking pattern as a right angle triangle(number or star.)
 
 // #include<iostream>
@@ -119,6 +119,7 @@
 
 
 
+//        6th
 // #include<iostream>
 // using namespace std;
 // int main() {
@@ -140,6 +141,7 @@
 
 
 
+//        7th
 // #include<iostream>
 // using namespace std;
 // int main() {
