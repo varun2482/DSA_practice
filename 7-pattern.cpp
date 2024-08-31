@@ -1,8 +1,8 @@
 //Here we are taking many more pattern examples for more clear understanding
+//here main three pattern you need to keep in mind are 1st,
 
 
-
-
+//      1st
 // #include<iostream>
 // using namespace std;
 // int main() {
@@ -19,6 +19,11 @@
 //   col++;
 // }
 // }
+
+//above pattern will give a 
+// * * *
+// * * *
+// * * *
 
 
 
