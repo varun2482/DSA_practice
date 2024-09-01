@@ -3,7 +3,7 @@ using namespace std;
 int main() {
   int a=5,b=7;
   //adding  explanation about relational operator.
-  bool first=(a==b);    //here == operator is used to where right hand is equal to left hand or not
+  bool first=(a==b);    //here == operator is used to check where right hand is equal to left hand or not
   cout<<first<<endl;
   //here we can check if our above relation is true(1) or false(0)
   
