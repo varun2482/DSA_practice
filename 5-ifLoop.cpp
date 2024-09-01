@@ -1,5 +1,6 @@
 //HERE we are having multiple examples on if-else condition, nested if, normal if , etc.
 
+//    1st
 #include<iostream>
 using namespace std;
 int main() {
@@ -25,13 +26,15 @@ int main() {
 
 
 
+//      2nd
 #include<iostream>
 using namespace std;
 int main()
 {
-int num=24;
-// cout<<"Enter a number: ";
-// cin>>num;
+//int num=24;
+int num;
+cout<<"Enter a number: ";
+cin>>num;
 if(num>0){
   cout<<"given number is positive"<<endl;
 }
