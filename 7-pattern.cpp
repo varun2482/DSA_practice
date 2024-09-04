@@ -29,22 +29,33 @@
 
 
 //      2nd
- #include<iostream>
- using namespace std;
- int main() {
-   int n, i=1;
-   cout << "Enter the number of elements: ";
-   cin >> n;
-   while (i<=n){
-     int j=1;
-     while (j<=n){
-       cout<<j;
-       j++;
-     }
-     cout<<endl;
-     i++;
-   }
- }
+#include<iostream>
+using namespace std;
+int main() {
+    int n, i = 1;
+    cout << "Enter the number of elements: ";
+    cin >> n;
+
+    // Outer loop for rows
+    while (i <= n) {
+        int j = 1;
+        
+        // Print numbers in ascending order
+        while (j <= n) {
+            cout << j;
+            j++;
+        }        
+        // Print numbers in descending order
+        j = n;
+        while (j >= 1) {
+            cout << j;
+            j--;
+        }        
+        cout << endl;
+        i++;
+    }
+    return 0;
+}
 
 
 
