@@ -1,4 +1,3 @@
-/*
 #include<iostream>
 using namespace std;
 
@@ -28,22 +27,4 @@ int main() {
     cout << "b >> 1 = " << (b >> 1) << endl;
 
     return 0;
-}    */
-
-
-
-
-
-
-
-
-#include<iostream>
-using namespace std;
-int main(){
-    int i=9;
-    
-    cout<<(i++)<<endl;        //this is post-increment operator
-    cout<<(++i)<<endl;        //this is pre-increment operator
-    cout<<(i--)<<endl;        //this is post-decrement operator
-    cout<<(--i)<<endl;        //this is pre-decrement operator
-}
+}    
