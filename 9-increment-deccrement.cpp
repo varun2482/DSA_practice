@@ -39,3 +39,9 @@ int main()    {
         cout<<"Inside else....";    }
     cout<<a<<" "<<b;
 }
+
+
+
+
+
+//        3rd
