@@ -56,3 +56,15 @@ int main() {
         cout<<"Inside else....";    }
     cout<<a<<" "<<b;
 }
+
+
+
+
+
+//        4th
+#include<iostream>
+using namespace std;
+int main() {
+    int num=3;
+    cout<<(25 * (++num)) ;
+}
