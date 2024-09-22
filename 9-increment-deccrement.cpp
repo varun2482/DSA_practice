@@ -49,7 +49,7 @@ int main()    {
 using namesapce std;
 int main() {
      int a=1,b=2;
-    if(a-- > 0 || ++b > 2) {        //here && operator is used to go into if loop iff both conditions are true......
+    if(a-- > 0 || ++b > 2) {        //here || operator is used to go into if loop if any one of condition is true......
         cout<<"Inside If....";
     }
     else {
