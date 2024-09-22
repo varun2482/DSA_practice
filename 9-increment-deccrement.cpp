@@ -45,3 +45,14 @@ int main()    {
 
 
 //        3rd
+#include<iostream>
+using namesapce std;
+int main() {
+     int a=1,b=2;
+    if(a-- > 0 || ++b > 2) {        //here && operator is used to go into if loop iff both conditions are true......
+        cout<<"Inside If....";
+    }
+    else {
+        cout<<"Inside else....";    }
+    cout<<a<<" "<<b;
+}
