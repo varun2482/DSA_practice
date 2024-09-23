@@ -15,14 +15,15 @@ int main()
 //        1st
 #include<iostream>
 using namespace std;
-int main()    {
-    int a, b=5;
-    a=10;
-    if(++a)
-        cout<<b;
-    else
-        cout<<++b;
+int main() {
+    int a=1;
+    int b=a++;
+    int c=++a;
+    cout<<b<<endl;
+    cout<<c;
 }
+
+
 
 
 
@@ -76,10 +77,11 @@ int main() {
 //        5th
 #include<iostream>
 using namespace std;
-int main() {
-    int a=1;
-    int b=a++;
-    int c=++a;
-    cout<<b<<endl;
-    cout<<c;
+int main()    {
+    int a, b=5;
+    a=10;
+    if(++a)
+        cout<<b;
+    else
+        cout<<++b;
 }
