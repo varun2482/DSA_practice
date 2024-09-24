@@ -10,3 +10,9 @@ int main() {
       cout<<i<<endl;
   }
 }
+
+
+
+
+
+// here we can write for loop in another way too...
