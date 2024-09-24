@@ -5,4 +5,8 @@ int main() {
   int n;
   cout<<"enter a number: "<<endl;
   cin>>n;
-  
+  cout<<"counting numbers from 1 to n: ";
+  for(int i=1;i<=n;i++) {
+      cout<<i<<endl;
+  }
+}
